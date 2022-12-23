@@ -1,3 +1,7 @@
+# Direct_Messenging_App
+
+Created as a final project for I&C SCI 32 with Prof. Mark Balwdin
+
 HOW TO OPERATE
 ----------------------------------------------
 1. Start by running the final.py module
